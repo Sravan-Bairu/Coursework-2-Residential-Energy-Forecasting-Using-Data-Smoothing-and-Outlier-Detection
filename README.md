@@ -1,0 +1,1 @@
+# Coursework-2-Residential-Energy-Forecasting-Using-Data-Smoothing-and-Outlier-Detection
